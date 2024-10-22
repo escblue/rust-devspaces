@@ -4,7 +4,7 @@ metadata:
 components:
   - name: tools
     container:
-      image: quay.io/devfile/universal-developer-image:ubi8-latest
+      image: docker.io/rust:1.82
       memoryLimit: 1Gi
       cpuLimit: 1000m
 
