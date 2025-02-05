@@ -16,4 +16,4 @@ cargo build
 cargo run
 ```
 
-This change was done from a Eclipse Che workspace!
+Hello World! This change was done from a Eclipse Che workspace!
