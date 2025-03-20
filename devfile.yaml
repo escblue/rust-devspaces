@@ -6,7 +6,7 @@ components:
     container:
       image: quay.io/devfile/universal-developer-image:ubi8-latest
       memoryLimit: 1Gi
-      cpuLimit: 1000m
+      cpuLimit: 300m
 
 commands:
   - id: build
